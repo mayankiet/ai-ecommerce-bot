@@ -1,6 +1,6 @@
 # 💬 e-commerce chatbot (Gen AI RAG project using LLama3.3 and GROQ)
 
-This is POC of an intelligent chatbot tailored for an e-commerce platform, enabling seamless user interactions by accurately identifying the intent behind user queries. It leverages real-time access to the platform's database, allowing it to provide precise and up-to-date responses.
+This is an intelligent chatbot tailored for an e-commerce platform, enabling seamless user interactions by accurately identifying the intent behind user queries. It leverages real-time access to the platform's database, allowing it to provide precise and up-to-date responses.
 
 Folder structure
 1. app: All the code for chatbot
@@ -40,7 +40,3 @@ This chatbot currently supports two intents:
     ```
 
 ---
-
-Copyright (C) Codebasics Inc. All rights reserved.
-
-Additional Terms: This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
